@@ -1,0 +1,67 @@
+General
+https://developer.mozilla.org/en-US/
+https://developer.mozilla.org/en-US/docs/Web
+https://www.w3schools.com/
+https://www.tutorialspoint.com/index.htm
+https://www.javatpoint.com/
+https://code.visualstudio.com/
+https://marketplace.visualstudio.com/vscode
+
+
+https://nodejs.org/en
+https://nodejs.org/en/docs
+
+https://expressjs.com/
+
+https://react.dev/
+https://react.dev/reference/react
+https://nextjs.org/
+https://nextjs.org/docs
+https://remix.run/
+https://remix.run/docs/en/main
+https://redux.js.org/
+
+https://vuejs.org/
+
+languages
+https://go.dev/
+https://www.python.org/
+https://docs.python.org/
+https://www.djangoproject.com/
+https://docs.djangoproject.com/
+https://flask.palletsprojects.com/en/3.0.x/tutorial/
+
+
+for senior dev
+https://redis.io/
+https://redis.io/docs/
+
+https://www.elastic.co/elasticsearch/
+
+https://openai.com/
+https://platform.openai.com/docs/introduction
+
+
+for testing
+https://jestjs.io/
+https://testing-library.com/
+https://mochajs.org/
+
+for local dev
+verdaccio, docker, compser, 
+https://verdaccio.org/
+
+for cms
+wordpress
+https://wordpress.org/
+https://developer.wordpress.org/
+
+for containers
+Istio
+https://istio.io/
+
+for bigdata
+https://www.scala-lang.org/
+https://docs.scala-lang.org/
+https://spark.apache.org/
+https://kafka.apache.org/
